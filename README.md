@@ -1,2 +1,2 @@
-# bank
-BankChurners predictions
+# Bank
+Bank Churners predictions with simple ML models.
